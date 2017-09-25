@@ -19,7 +19,7 @@ The default node express server port is 8080 and can be changed in `./server/con
 
 ### Clone the repo
 ```
-git clone https://github.com/qbakozak/reactjs-backend-boilerplate
+git clone https://github.com/qbakozak/reactjs-backend-boilerplate.git
 ```
 
 ### Install dependancies
